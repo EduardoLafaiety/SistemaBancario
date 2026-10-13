@@ -1,0 +1,24 @@
+# Saída de build do Maven (gerada a cada compilação)
+target/
+
+# Arquivos de IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Variáveis de ambiente e segredos (nunca versionar senhas)
+.env
+*.env
